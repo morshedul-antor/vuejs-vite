@@ -1,6 +1,10 @@
 <script setup>
 import { ref, watchEffect } from 'vue'
 
+// import { useRoute } from 'vue-router'
+// const route = useRoute()
+// route.params.id
+
 const users = ref([])
 const search = ref()
 const isLoading = ref(false)
