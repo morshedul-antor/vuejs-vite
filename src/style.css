@@ -1,0 +1,13 @@
+:root {
+    color: rgba(28, 25, 25, 0.87);
+    background-color: #ffffff;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: grid;
+    min-height: 80vh;
+    place-items: center;
+    text-align: center;
+}
